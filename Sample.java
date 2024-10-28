@@ -1,8 +1,8 @@
-public class sample
+public class Sample
 {
-	public static void main(string args[])
+	public static void main(String args[])
 	{
-		system.out.println("rohithreddy");
+		System.out.println("rohithreddy");
 	}
 }
 
